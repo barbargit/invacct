@@ -38,11 +38,5 @@
       ]
     }
   ],
-  "ignore": [
-    ".git",
-    "node_modules/**",
-    "README.md",
-    "*.log"
-  ],
   "maxLambdaSize": "10mb"
 }
