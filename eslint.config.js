@@ -2,8 +2,6 @@
 import nextPlugin from "eslint-config-next";
 import js from "@eslint/js";
 import tseslint from "typescript-eslint";
-import reactHooks from "eslint-plugin-react-hooks";
-import jsxA11y from "eslint-plugin-jsx-a11y";
 
 /** @type {import("eslint").Linter.FlatConfig[]} */
 export default [
@@ -11,22 +9,10 @@ export default [
   js.configs.recommended,
   ...tseslint.configs.recommended,
 
-  // Config bawaan Next.js
+  // Config bawaan Next.js (sudah termasuk react, react-hooks, jsx-a11y)
   ...nextPlugin,
 
-  // React hooks dan accessibility plugin
-  {
-    plugins: {
-      "react-hooks": reactHooks,
-      "jsx-a11y": jsxA11y,
-    },
-    rules: {
-      ...reactHooks.configs.recommended.rules,
-      ...jsxA11y.configs.recommended.rules,
-    },
-  },
-
-  // Custom rules tambahan (optional)
+  // Custom rules tambahan
   {
     rules: {
       "no-unused-vars": "warn",
