@@ -1,0 +1,26 @@
+[
+  {
+    "no_retur": "PRT001",
+    "tanggal": "2025-10-28",
+    "supplier": "PT Mega Paper Indonesia",
+    "ref_po": "PO001",
+    "total": 275000,
+    "status": "Disetujui"
+  },
+  {
+    "no_retur": "PRT002",
+    "tanggal": "2025-10-29",
+    "supplier": "PT Office Mart Supply",
+    "ref_po": "PO003",
+    "total": 125000,
+    "status": "Menunggu"
+  },
+  {
+    "no_retur": "PRT003",
+    "tanggal": "2025-10-30",
+    "supplier": "CV Stationery Makmur",
+    "ref_po": "PO002",
+    "total": 180000,
+    "status": "Disetujui"
+  }
+]

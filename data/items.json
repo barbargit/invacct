@@ -1,0 +1,66 @@
+[
+  {
+    "kode": "BRG001",
+    "nama": "Kertas HVS A4 80gsm",
+    "satuan": "Rim",
+    "stok": 150,
+    "harga": 45000,
+    "kategori": "ATK"
+  },
+  {
+    "kode": "BRG002",
+    "nama": "Pulpen Pilot G2 0.7mm",
+    "satuan": "Pcs",
+    "stok": 500,
+    "harga": 7500,
+    "kategori": "ATK"
+  },
+  {
+    "kode": "BRG003",
+    "nama": "Stapler Kenko HD-10",
+    "satuan": "Pcs",
+    "stok": 75,
+    "harga": 25000,
+    "kategori": "ATK"
+  },
+  {
+    "kode": "BRG004",
+    "nama": "Amplop Coklat F4",
+    "satuan": "Pack",
+    "stok": 200,
+    "harga": 15000,
+    "kategori": "ATK"
+  },
+  {
+    "kode": "BRG005",
+    "nama": "Spidol Whiteboard Snowman",
+    "satuan": "Pcs",
+    "stok": 120,
+    "harga": 8500,
+    "kategori": "ATK"
+  },
+  {
+    "kode": "BRG006",
+    "nama": "Binder Clip 155mm",
+    "satuan": "Box",
+    "stok": 90,
+    "harga": 12000,
+    "kategori": "ATK"
+  },
+  {
+    "kode": "BRG007",
+    "nama": "Isolasi Daimaru 1 inch",
+    "satuan": "Pcs",
+    "stok": 80,
+    "harga": 9000,
+    "kategori": "Supplies"
+  },
+  {
+    "kode": "BRG008",
+    "nama": "Gunting Kenko 8 inch",
+    "satuan": "Pcs",
+    "stok": 45,
+    "harga": 18000,
+    "kategori": "ATK"
+  }
+]

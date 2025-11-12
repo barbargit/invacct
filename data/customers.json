@@ -1,0 +1,37 @@
+[
+  {
+    "kode": "CST001",
+    "nama": "CV Sinar Jaya",
+    "kontak": "021-8889999",
+    "alamat": "Jakarta Barat",
+    "email": "procurement@sinarjaya.co.id"
+  },
+  {
+    "kode": "CST002",
+    "nama": "PT Global Retail Indonesia",
+    "kontak": "021-7776655",
+    "alamat": "Jakarta Pusat",
+    "email": "purchasing@globalretail.id"
+  },
+  {
+    "kode": "CST003",
+    "nama": "Toko Berkah Sejahtera",
+    "kontak": "031-4443322",
+    "alamat": "Surabaya",
+    "email": "berkahsejahtera@yahoo.com"
+  },
+  {
+    "kode": "CST004",
+    "nama": "PT Mitra Usaha Bersama",
+    "kontak": "022-6665544",
+    "alamat": "Bandung",
+    "email": "mitrausaha@gmail.com"
+  },
+  {
+    "kode": "CST005",
+    "nama": "CV Mandiri Sukses",
+    "kontak": "024-5554433",
+    "alamat": "Semarang",
+    "email": "mandirisukses@outlook.com"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "kode": "SUP001",
+    "nama": "PT Mega Paper Indonesia",
+    "kontak": "021-5551234",
+    "alamat": "Jakarta",
+    "email": "sales@megapaper.co.id"
+  },
+  {
+    "kode": "SUP002",
+    "nama": "CV Stationery Makmur",
+    "kontak": "021-6667890",
+    "alamat": "Tangerang",
+    "email": "order@stationerymakmur.com"
+  },
+  {
+    "kode": "SUP003",
+    "nama": "PT Office Mart Supply",
+    "kontak": "021-7778899",
+    "alamat": "Jakarta Selatan",
+    "email": "supplier@officemart.id"
+  },
+  {
+    "kode": "SUP004",
+    "nama": "UD Sumber Jaya",
+    "kontak": "031-5554321",
+    "alamat": "Surabaya",
+    "email": "sumberjaya@gmail.com"
+  }
+]

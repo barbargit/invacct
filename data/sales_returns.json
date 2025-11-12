@@ -1,0 +1,26 @@
+[
+  {
+    "no_retur": "SRT001",
+    "tanggal": "2025-10-30",
+    "customer": "CV Sinar Jaya",
+    "ref_so": "SO001",
+    "total": 150000,
+    "status": "Selesai"
+  },
+  {
+    "no_retur": "SRT002",
+    "tanggal": "2025-10-31",
+    "customer": "PT Global Retail Indonesia",
+    "ref_so": "SO002",
+    "total": 225000,
+    "status": "Menunggu"
+  },
+  {
+    "no_retur": "SRT003",
+    "tanggal": "2025-11-01",
+    "customer": "Toko Berkah Sejahtera",
+    "ref_so": "SO003",
+    "total": 95000,
+    "status": "Disetujui"
+  }
+]

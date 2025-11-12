@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Layout Fix */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 16rem;
+  overflow-y: auto;
+}
+
+.main-content {
+  margin-left: 16rem;
+  min-height: 100vh;
+  padding: 1.5rem;
+}
+
+body {
+  @apply bg-gray-50 text-gray-900;
+}
+
+.card {
+  @apply bg-white shadow rounded-xl p-4;
+}
+
+.page-title {
+  @apply text-2xl font-semibold mb-4;
+}
+
+.btn-primary {
+  @apply px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors;
+}
+
+.btn-secondary {
+  @apply px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 transition-colors;
+}
+
+.table-container {
+  @apply overflow-x-auto rounded-lg border border-gray-200;
+}
+
+.data-table {
+  @apply w-full text-sm text-left;
+}
+
+.data-table thead {
+  @apply bg-gray-100 border-b border-gray-200;
+}
+
+.data-table th {
+  @apply px-4 py-3 font-semibold text-gray-700;
+}
+
+.data-table td {
+  @apply px-4 py-3 border-b border-gray-100;
+}
+
+.data-table tbody tr {
+  @apply hover:bg-gray-50 transition-colors;
+}
+
+.sidebar-item {
+  @apply flex items-center gap-3 px-4 py-2.5 rounded-lg text-gray-700 hover:bg-primary-50 hover:text-primary-700 transition-all cursor-pointer;
+}
+
+.sidebar-item.active {
+  @apply bg-primary-600 text-white hover:bg-primary-700 hover:text-white;
+}
+
+.sidebar-submenu {
+  @apply ml-8 mt-1 space-y-1;
+}
+
+.status-badge {
+  @apply px-3 py-1 rounded-full text-xs font-medium;
+}
+
+.status-approved {
+  @apply bg-green-100 text-green-700;
+}
+
+.status-pending {
+  @apply bg-yellow-100 text-yellow-700;
+}
+
+.status-completed {
+  @apply bg-blue-100 text-blue-700;
+}
+
+.status-rejected {
+  @apply bg-red-100 text-red-700;
+}

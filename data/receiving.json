@@ -1,0 +1,26 @@
+[
+  {
+    "no_terima": "RCV001",
+    "tanggal": "2025-10-21",
+    "ref_po": "PO001",
+    "supplier": "PT Mega Paper Indonesia",
+    "gudang": "Gudang Utama Jakarta",
+    "status": "Selesai"
+  },
+  {
+    "no_terima": "RCV002",
+    "tanggal": "2025-10-26",
+    "ref_po": "PO003",
+    "supplier": "PT Office Mart Supply",
+    "gudang": "Gudang Surabaya",
+    "status": "Selesai"
+  },
+  {
+    "no_terima": "RCV003",
+    "tanggal": "2025-10-30",
+    "ref_po": "PO002",
+    "supplier": "CV Stationery Makmur",
+    "gudang": "Gudang Utama Jakarta",
+    "status": "Proses"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "no_po": "PO001",
+    "tanggal": "2025-10-20",
+    "supplier": "PT Mega Paper Indonesia",
+    "total": 2250000,
+    "status": "Diterima"
+  },
+  {
+    "no_po": "PO002",
+    "tanggal": "2025-10-22",
+    "supplier": "CV Stationery Makmur",
+    "total": 1850000,
+    "status": "Menunggu"
+  },
+  {
+    "no_po": "PO003",
+    "tanggal": "2025-10-25",
+    "supplier": "PT Office Mart Supply",
+    "total": 3100000,
+    "status": "Disetujui"
+  },
+  {
+    "no_po": "PO004",
+    "tanggal": "2025-10-28",
+    "supplier": "UD Sumber Jaya",
+    "total": 1500000,
+    "status": "Draft"
+  }
+]

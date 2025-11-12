@@ -1,0 +1,26 @@
+[
+  {
+    "no_kirim": "SHP001",
+    "tanggal": "2025-10-22",
+    "ref_so": "SO001",
+    "customer": "CV Sinar Jaya",
+    "gudang": "Gudang Utama Jakarta",
+    "status": "Terkirim"
+  },
+  {
+    "no_kirim": "SHP002",
+    "tanggal": "2025-10-24",
+    "ref_so": "SO002",
+    "customer": "PT Global Retail Indonesia",
+    "gudang": "Gudang Bandung",
+    "status": "Dalam Perjalanan"
+  },
+  {
+    "no_kirim": "SHP003",
+    "tanggal": "2025-10-27",
+    "ref_so": "SO003",
+    "customer": "Toko Berkah Sejahtera",
+    "gudang": "Gudang Surabaya",
+    "status": "Siap Kirim"
+  }
+]

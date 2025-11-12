@@ -1,0 +1,26 @@
+[
+  {
+    "kode": "GDG001",
+    "nama": "Gudang Utama Jakarta",
+    "alamat": "Jl. Raya Industri No. 123, Jakarta Utara",
+    "keterangan": "Gudang utama untuk distribusi area Jakarta"
+  },
+  {
+    "kode": "GDG002",
+    "nama": "Gudang Surabaya",
+    "alamat": "Jl. Rungkut Industri III No. 45, Surabaya",
+    "keterangan": "Gudang distribusi area Jawa Timur"
+  },
+  {
+    "kode": "GDG003",
+    "nama": "Gudang Bandung",
+    "alamat": "Jl. Soekarno Hatta KM 12, Bandung",
+    "keterangan": "Gudang distribusi area Jawa Barat"
+  },
+  {
+    "kode": "GDG004",
+    "nama": "Gudang Semarang",
+    "alamat": "Jl. Kaligawe KM 8, Semarang",
+    "keterangan": "Gudang distribusi area Jawa Tengah"
+  }
+]

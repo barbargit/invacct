@@ -1,0 +1,30 @@
+[
+  {
+    "no_so": "SO001",
+    "tanggal": "2025-10-21",
+    "customer": "CV Sinar Jaya",
+    "total": 1850000,
+    "status": "Selesai"
+  },
+  {
+    "no_so": "SO002",
+    "tanggal": "2025-10-23",
+    "customer": "PT Global Retail Indonesia",
+    "total": 2750000,
+    "status": "Proses"
+  },
+  {
+    "no_so": "SO003",
+    "tanggal": "2025-10-26",
+    "customer": "Toko Berkah Sejahtera",
+    "total": 950000,
+    "status": "Disetujui"
+  },
+  {
+    "no_so": "SO004",
+    "tanggal": "2025-10-29",
+    "customer": "PT Mitra Usaha Bersama",
+    "total": 1650000,
+    "status": "Draft"
+  }
+]
