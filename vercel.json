@@ -1,24 +1,4 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/next"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "https://inventory-accounting-backend-production.up.railway.app/api/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ],
-  "env": {
-    "NEXT_PUBLIC_API_URL": "https://inventory-accounting-backend-production.up.railway.app/api"
-  },
   "headers": [
     {
       "source": "/(.*)",
@@ -38,4 +18,10 @@
       ]
     }
   ],
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://inventory-accounting-backend-production.up.railway.app/api/:path*"
+    }
+  ]
 }
