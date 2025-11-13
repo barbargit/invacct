@@ -3,7 +3,7 @@ const path = require('path');
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output: 'standalone', // For Vercel deployment
+  //output: 'standalone', // For Vercel deployment
   images: {
     unoptimized: true, // For Vercel deployment
   },
